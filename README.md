@@ -2,24 +2,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="Quénan" /> </p>
 <h1 align="center">Hi I'm Quénan</h1>
-**QUENANE/QUENANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Intro -->
 
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <!-- Social network -->
+<p style="margin-top: 50px;">
+    <p align="left">
+        <a href="https://twitter.com/QuenanBy" target="blank"><img src="https://img.shields.io/twitter/follow/QuenanBy?logo=twitter&style=for-the-badge" alt="QuenanBy" /></a>
     <h3 align="center">Je suis chretien je prie, j'aime beaucoups DIEU </h3>
     <h3 align="center">je suis un jeune deveollopeur ,j'apprends a programmer et j'aimerai aussi ecrire des articles sur les develloppements personnelles et faire aussi de video sur youtube en francais🥖 web dev</h3>
 </p>
 
-Here are some ideas to get you started:
+<!-- Contact -->
+<h1 align="center">How to get in touch?</h1>
+<h3 align="center">If you need my expertise for your project 👇</h3>
 
-- 🔭 I’m currently working on ... 
-- 🌱 J'apprends actuellement sur une formation en programmation 
-- 👯 Je cherche à collaborer sur...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    - <a href="mailto:byasegherekenan@gmail.com">Send email</a>
+    <p style='margin-bottom: 20px'>
+    </p>
+</p>  
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
