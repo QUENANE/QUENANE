@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="Quénan" /> </p>
 <h1 align="center">Hi I'm Quénan</h1>
 
-<!-- Intro -->
+
 
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
