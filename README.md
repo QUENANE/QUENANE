@@ -14,8 +14,8 @@
          <p align="left">
         <a href="https://www.tiktok.com/quenanO5" target="blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="quenan05" /></a>
     </p>
-    <h3 align="center">Je suis chretien je prie, j'aime beaucoups DIEU </h3>
-    <h3 align="center">je suis un jeune deveollopeur ,j'apprends a programmer et j'aimerai aussi ecrire des articles sur les develloppements personnelles et faire aussi de video sur youtube en francais🥖 web dev</h3>
+    <h3 align="center">Je suis chretien, j'aime beaucoups DIEU </h3>
+    <h3 align="center">je suis un jeune deveollopeur ,j'aime le code et je voudrai aussi ecrire des articles sur les develloppements personnelles et partager mes connaissances faire ensuite aussi de video sur youtube en francais🥖 web dev</h3>
 </p>
 
 <!-- Contact -->
